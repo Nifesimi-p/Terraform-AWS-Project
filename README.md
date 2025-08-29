@@ -357,4 +357,4 @@ terraform apply
 
 ---
 
-** Cost Warning**: This infrastructure creates billable AWS resources. Always run `terraform destroy` after testing to avoid unexpected charges.
+**Cost Warning**: This infrastructure creates billable AWS resources. Always run `terraform destroy` after testing to avoid unexpected charges.
