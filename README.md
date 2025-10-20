@@ -1,4 +1,4 @@
-# Multi-Environment Web Application Infrastructure
+# Multi-Environment Web Application Infrastructure With AWS & Terraform
 
 This project creates a production-ready web application infrastructure with auto-scaling capabilities using Terraform.
 
